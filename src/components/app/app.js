@@ -17,7 +17,8 @@ export default class App extends Component {
       { id: 1, label: 'Drink Coffee', important: false, done: false },
       { id: 2, label: 'Learn React', important: true, done: false },
       { id: 3, label: 'Make App', important: false, done: false },
-      { id: 4, label: 'Deploy App', important: false, done: false }
+      { id: 4, label: 'Deploy App', important: false, done: true },
+      { id: 5, label: 'Test Vercel', important: false, done: false }
     ],
     filter: 'all',
     search: ''

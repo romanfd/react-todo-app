@@ -1,2 +1,2 @@
 # react-todo-app<br>
-Ссылка на проект - https://react-todo-app-five.vercel.app/
+Ссылка на проект - <a href="https://react-todo-app-five.vercel.app/" target="_blank">https://react-todo-app-five.vercel.app/</a>
